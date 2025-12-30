@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About • AI Plant Protocol Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:'Poppins',sans-serif;background:transparent;color:#000;line-height:1.7;padding:0;position:relative;overflow-x:hidden;}
+.container{max-width:900px;margin:60px auto;background:rgba(255,255,255,0.78);backdrop-filter:blur(12px);padding:30px 40px;border-radius:16px;border:1px solid #ffffff40;box-shadow:0 0 20px rgba(0,0,0,0.15);}
+h1{
+  font-size:32px;
+  font-weight:800;
+  background:linear-gradient(90deg,#8affc3,#00ffa2,#3bffcf);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+h2{
+  margin-top:32px;
+  font-weight:700;
+  color:#9affd2;
+}
+p{
+  margin:14px 0;
+  font-size:16px;
+}
+ul{margin-top:10px;padding-left:20px}
+li{margin-bottom:8px}
+a{color:#00ff9d;text-decoration:underline}
+.footer{text-align:center;margin-top:40px;color:#8affc3;font-weight:600;font-size:14px}
+/* 3D BACKGROUND + LAYERS */
+.stage{position:fixed;inset:0;overflow:hidden;z-index:-1;background:#ffffff;}
+/* Re‑adding 3D layers */
+.layer{position:absolute;inset:0;background-size:cover;background-repeat:no-repeat;background-position:center;}
+.layer.mountains{background-image:url('https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=2000&q=80');filter:brightness(0.55);} 
+.layer.trees-mid{background-image:url('https://png.pngtree.com/png-vector/20231026/ourmid/pngtree-silhouette-of-dense-forest-png-image_10234577.png');opacity:0.7;}
+.layer.trees-front{background-image:url('https://png.pngtree.com/png-clipart/20220116/ourmid/pngtree-forest-tree-silhouette-png-image_3967895.png');opacity:1;}
+.layer.lab{background-image:url('https://images.unsplash.com/photo-1581091215367-59ab6a2881c1?auto=format&fit=crop&w=2000&q=80');filter:brightness(1.05);}
+/* Fog removed */
+
+/* Fireflies removed for real-world look */
+@keyframes float{0%,100%{transform:translateY(0) scale(1);}50%{transform:translateY(-30px) scale(1.2);}}
+
+
+/* FULLSCREEN FOREST BACKGROUND */
+.stage{position:fixed;inset:0;z-index:-1;overflow:hidden;}
+/* removed lab-bg */  
+/* Fog Layer */
+.fog{position:absolute;inset:0;background:url('https://raw.githubusercontent.com/ItsAnunesS/AssetsCDN/main/Fog/fog.png');background-size:cover;opacity:0.4;mix-blend-mode:screen;animation:fogMove 25s linear infinite;}
+@keyframes fogMove{0%{transform:translateX(-10%);}100%{transform:translateX(10%);}}
+
+/* Fireflies */
+.firefly{position:absolute;width:6px;height:6px;background:#fff;border-radius:50%;box-shadow:0 0 8px #fff;animation:fly 6s ease-in-out infinite;}
+@keyframes fly{0%{transform:translate(0,0);}50%{transform:translate(40px,-60px);}100%{transform:translate(0,0);}}
+</style>
+</head>
+<body>
+
+<!-- FULLSCREEN FOREST BACKGROUND -->
+<div class="stage">
+  <div class="layer mountains"></div>
+  
+  <div class="fog"></div>
+  <div class="firefly" style="top:20%;left:30%;animation-delay:0s;"></div>
+  <div class="firefly" style="top:60%;left:50%;animation-delay:2s;"></div>
+  <div class="firefly" style="top:40%;left:70%;animation-delay:1s;"></div>
+</div>
+  <div class="layer trees-mid"></div>
+  <div class="layer trees-front"></div>
+</div>
+
+<div class="container">
+  <h1>About This Project</h1>
+  <p>
+    The <strong>AI Plant Tissue Culture Assistant + Live Wiki Search</strong> is a fully interactive web tool designed to support plant biotechnology students, researchers, and lab technicians. It combines two powerful modules — an AI-powered protocol generator and a real‑time Wikipedia lookup engine — inside a visually immersive forest‑themed interface.
+  </p>
+
+  <h2>How We Built It</h2>
+  <p>
+    This project is the result of several weeks of brainstorming, research, prototyping, and refinement. Our goal was not just to build another informational website, but to create a tool that feels alive — a digital extension of an actual biotechnology laboratory. Every component, from UI layout to data processing flow, was designed to simulate the experience of working with real plant tissue culture protocols.
+  </p>
+  <p>
+    Below is an expanded breakdown of the full technical and conceptual foundation that shaped the development of the AI Plant Tissue Culture Assistant.
+  </p>
+
+  <h2>1. Front‑End UI & Design</h2>
+  <p>
+    The interface was carefully crafted to feel clean, professional, and laboratory‑inspired. We used pure <strong>HTML, CSS, and JavaScript</strong> to maximize performance and reduce dependency on heavy frameworks. Some additional details include:
+  </p>
+  <ul>
+    <li>A fully responsive column system that adjusts intelligently from widescreen desktops to compact mobile devices.</li>
+    <li>A polished laboratory background image chosen to resemble a sterile, well‑lit real‑world biotech environment.</li>
+    <li>Micro‑interactions such as button glows, hover states, subtle shadows, and sliding transitions to give a sense of physical depth.</li>
+    <li>Typography optimized for readability, using the Poppins typeface for a modern, scientific aesthetic.</li>
+    <li>Rounded panel geometry (16–22px radius) inspired by modern scientific software dashboards.</li>
+  </ul>‑End UI & Design</h2>
+  <p>
+    The user interface was developed using pure <strong>HTML, CSS, and JavaScript</strong>, without any external frameworks. Key features include:
+  </p>
+  <ul>
+    <li>A multi‑layered <strong>3D parallax forest background</strong> with mountains, trees, fog, and fireflies.</li>
+    <li>Glass‑blur panel design using <code>backdrop-filter</code> to create a futuristic biotech feel.</li>
+    <li>A split, responsive layout for the AI Protocol Panel and Wiki Search Panel.</li>
+    <li>Dynamic animations, glowing borders, and forest‑inspired gradients.</li>
+  </ul>
+
+  <h2>2. AI Protocol Engine</h2>
+  <p>
+    At the core of the system is an intelligent protocol retrieval and formatting engine. While not a full AI model, it behaves like one through careful structuring of data and logic. Expanded features include:
+  </p>
+  <ul>
+    <li><strong>Natural‑language keyword recognition</strong> that allows flexible search terms such as common names, scientific names, or protocol types.</li>
+    <li><strong>Adaptive protocol formatting</strong> that restructures stored data into clean, step-by-step laboratory instructions.</li>
+    <li><strong>Contextual metadata extraction</strong> used to automatically insert sterilization times, hormone concentrations, and media formulations.</li>
+    <li>A custom <strong>typewriter animation engine</strong> that simulates digital lab notebook output.</li>
+    <li><strong>Batch update ability</strong> to integrate new plants into the system without modifying core code.</li>
+  </ul>
+  <p>
+    The combination of JSON-based datasets and JavaScript parsing allows the tool to cover a wide range of species and experimental conditions.
+  </p>
+
+  <h2>3. Live Plant Search</h2> Live Plant Search</h2>
+  <p>
+    The right‑side panel connects to the official <strong>INTERNET REST API</strong> to fetch:
+  </p>
+  <ul>
+    <li>Plant descriptions</li>
+    <li>Scientific summaries</li>
+    <li>Thumbnail images</li>
+    <li>Automated speech output using our custom reader</li>
+  </ul>
+
+  <h2>4. Extra Features</h2>
+  <ul>
+    <li>Firefly particle animation created using JavaScript loops</li>
+    <li>Auto‑generated audio narration using Web Speech API</li>
+    <li>Error‑handling for missing data and failed API requests</li>
+    <li>Mobile‑adaptive layout for clean viewing on any device</li>
+  </ul>
+
+  <h2>Our Vision</h2>
+  <p>
+    Our mission is to make plant biotechnology more accessible by combining <strong>AI, interactive visuals, and clean UI engineering</strong>. By merging real lab knowledge with fast information access, this tool supports both beginners and advanced researchers.
+  </p>
+
+  <h2>Creators</h2>
+  <ul>
+    <li><strong>NJ Bharanitharan</strong> — Lead Researcher & Developer & UI/UX Designer</li>
+    <li><strong>P Hemanth Karthikeyan</strong> — Research Content Creator & Protocol Curator</li>
+  </ul>
+
+  <div class="footer">AI Biotech Project © 2025</div>
+</div>
+</body>
+</html>

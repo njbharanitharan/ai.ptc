@@ -1,0 +1,384 @@
+{
+  "tomato": [
+    "Giovannoni, J. J. (2004). Genetic regulation of fruit development and ripening. The Plant Cell, 16(S1), S170–S180. https://doi.org/10.1105/tpc.019158",
+    "Klee, H. J., et al. (2011). Genetics and control of tomato fruit ripening and quality attributes. Annual Review of Genetics, 45, 41–59. https://doi.org/10.1146/annurev-genet-110410-132507",
+    "Bergougnoux, V. (2014). The history of tomato: From domestication to biopharming. Biotechnology Advances, 32(1), 170–189. https://doi.org/10.1016/j.biotechadv.2013.11.003"
+  ],
+  "potato": [
+    "Spooner, D. M., et al. (2005). A single domestication for potato based on multilocus AFLP genotyping. Proceedings of the National Academy of Sciences, 102(41), 14694–14699. https://doi.org/10.1073/pnas.0507400102",
+    "Birch, P. R. J., et al. (2012). Crops that feed the world 8: Potato. Food Security, 4, 477–508. https://doi.org/10.1007/s12571-012-0224-5"
+  ],
+  "banana": [
+    "Heslop-Harrison, J. S., et al. (2007). Domestication, genomics and the future for banana. Annals of Botany, 100(5), 1073–1084. https://doi.org/10.1093/aob/mcm191",
+    "Perrier, X., et al. (2011). Multidisciplinary perspectives on banana domestication. Proceedings of the National Academy of Sciences, 108(28), 11311–11318. https://doi.org/10.1073/pnas.1102001108"
+  ],
+  "aloe_vera": [
+    "Eshun, K., et al. (2004). Aloe vera: A valuable ingredient for food, pharmaceutical and cosmetic industries. Critical Reviews in Food Science and Nutrition, 44(2), 91–96. https://doi.org/10.1080/10408690490424694",
+    "Hamman, J. H. (2008). Composition and applications of Aloe vera leaf gel. Molecules, 13(8), 1599–1616. https://doi.org/10.3390/molecules13081599"
+  ],
+  "rose": [
+    "Debener, T., et al. (2003). Molecular markers for ornamental plants. Plant Breeding, 122(1), 1–8. https://doi.org/10.1046/j.1439-0523.2003.00855.x",
+    "Guterman, I., et al. (2002). Rose scent: Genomics approach to discovering novel floral fragrance-related genes. Plant Cell, 14(10), 2325–2338. https://doi.org/10.1105/tpc.005207"
+  ],
+  "orchid": [
+    "Dressler, R. L. (1993). Phylogeny and classification of the orchid family. Cambridge University Press.",
+    "Chen, W. H., et al. (2019). Orchid biotechnology: Breeding and propagation. Plant Biotechnology Reports, 13, 1–15. https://doi.org/10.1007/s11816-018-0514-9"
+  ],
+  "jasmine": [
+    "Green, P. S., et al. (2003). The genus Jasminum in cultivation. Royal Botanic Gardens, Kew.",
+    "Bera, S., et al. (2016). Floral biology and scent chemistry of jasmine. Industrial Crops and Products, 89, 1–7. https://doi.org/10.1016/j.indcrop.2016.04.048"
+  ],
+  "neem": [
+    "Schmutterer, H. (1990). Properties and potential of natural pesticides from the neem tree. Annual Review of Entomology, 35, 271–297. https://doi.org/10.1146/annurev.en.35.010190.001415",
+    "Biswas, K., et al. (2002). Biological activities and medicinal properties of neem. Current Science, 82(11), 1336–1345."
+  ],
+  "tulsi": [
+    "Pattanayak, P., et al. (2010). Ocimum sanctum Linn. A reservoir plant for therapeutic applications. Pharmacognosy Reviews, 4(7), 95–105. https://doi.org/10.4103/0973-7847.65323",
+    "Mondal, S., et al. (2009). Evaluation of antioxidant and antimicrobial activities of Tulsi. Journal of Ethnopharmacology, 123(1), 121–126. https://doi.org/10.1016/j.jep.2009.02.023"
+  ],
+  "sugarcane": [
+    "Moore, P. H., et al. (2013). Sugarcane breeding and genetics. Sugar Tech, 15, 109–117. https://doi.org/10.1007/s12355-013-0212-5",
+    "Cheavegatti-Gianotto, A., et al. (2011). Sugarcane genomics: Bridging the gap. Tropical Plant Biology, 4, 1–12. https://doi.org/10.1007/s12042-010-9068-8"
+  ],
+  "wheat": [
+    "Dubcovsky, J., et al. (2007). Genome plasticity in polyploid wheat. Science, 316(5833), 1862–1866. https://doi.org/10.1126/science.1143986",
+    "Shewry, P. R., et al. (2009). Wheat. Journal of Experimental Botany, 60(6), 1537–1553. https://doi.org/10.1093/jxb/erp058"
+  ],
+  "rice": [
+    "Khush, G. S. (1997). Origin, dispersal, cultivation and variation of rice. Plant Molecular Biology, 35, 25–34. https://doi.org/10.1023/A:1005810616885",
+    "Garris, A. J., et al. (2005). Genetic structure and diversity in Oryza sativa. Genetics, 169, 1631–1638. https://doi.org/10.1534/genetics.104.035642"
+  ],
+  "maize": [
+    "Doebley, J., et al. (2006). The molecular genetics of crop domestication. Cell, 127(7), 1309–1321. https://doi.org/10.1016/j.cell.2006.12.006",
+    "Troyer, A. F. (2004). Background of US hybrid corn. Crop Science, 44(2), 370–380. https://doi.org/10.2135/cropsci2004.3700"
+  ],
+  "barley": [
+    "Pourkheirandish, M., et al. (2015). Evolution of the grain dispersal system in barley. Cell, 162(3), 527–539. https://doi.org/10.1016/j.cell.2015.07.002",
+    "von Bothmer, R., et al. (2003). Diversity in barley. Elsevier Science."
+  ],
+  "mint": [
+    "Croteau, R., et al. (2005). Biosynthesis of monoterpenes in mint. Archives of Biochemistry and Biophysics, 433(1), 13–27. https://doi.org/10.1016/j.abb.2004.08.020",
+    "Rohloff, J., et al. (2005). Essential oil composition of mint species. Phytochemistry, 66(1), 95–105. https://doi.org/10.1016/j.phytochem.2004.11.013"
+  ],
+  "ginger": [
+    "Ravindran, P. N., et al. (2005). Ginger: The genus Zingiber. CRC Press.",
+    "Ali, B. H., et al. (2008). Some phytochemical, pharmacological and toxicological properties of ginger. Food and Chemical Toxicology, 46(2), 409–420. https://doi.org/10.1016/j.fct.2007.09.085"
+  ],
+  "turmeric": [
+    "Aggarwal, B. B., et al. (2007). Curcumin: The Indian solid gold. Advances in Experimental Medicine and Biology, 595, 1–75. https://doi.org/10.1007/978-0-387-46401-5_1",
+    "Prasad, S., et al. (2014). Turmeric, the golden spice. Herbal Medicine: Biomolecular and Clinical Aspects. CRC Press."
+  ],
+  "bamboo": [
+    "Liese, W., et al. (2015). Bamboo: The plant and its uses. Springer.",
+    "Ramakrishnan, M., et al. (2020). Bamboo biotechnology: A review. Trees, 34, 1–23. https://doi.org/10.1007/s00468-019-01909-6"
+  ],
+  "apple": [
+    "Cornille, A., et al. (2014). The domestication history of apple. Nature Genetics, 46(8), 818–822. https://doi.org/10.1038/ng.3009",
+    "Velasco, R., et al. (2010). The genome of the domesticated apple. Nature Genetics, 42(10), 833–839. https://doi.org/10.1038/ng.654"
+  ],
+  "mango": [
+    "Litz, R. E., et al. (2009). The mango: Botany, production and uses. CABI Publishing.",
+    "Iyer, C. P. A., et al. (2017). Advances in mango breeding and genetics. Scientia Horticulturae, 218, 1–13. https://doi.org/10.1016/j.scienta.2017.02.013"
+  ],
+  "guava": [
+    "Mitra, S., et al. (2010). Guava: Botany, production and uses. CABI Publishing.",
+    "Thaipong, K., et al. (2006). Comparison of antioxidant activities of guava fruit extracts. Journal of Food Composition and Analysis, 19(6–7), 669–675. https://doi.org/10.1016/j.jfca.2006.02.002"
+  ],
+  "lemon": [
+    "Dugo, G., et al. (2010). Citrus oils: Composition, advanced analytical techniques and authenticity. CRC Press.",
+    "Khan, M. K., et al. (2014). Citrus flavonoids and human health. Journal of Food Composition and Analysis, 33(1), 85–104. https://doi.org/10.1016/j.jfca.2013.11.010"
+  ],
+  "lime": [
+    "Penniston, K. L., et al. (2008). Nutritional properties of lime and lemon juice. Journal of Endourology, 22(3), 567–570. https://doi.org/10.1089/end.2007.0307",
+    "Zouaghi, F., et al. (2019). Phytochemical and antioxidant properties of Citrus aurantifolia. Industrial Crops and Products, 139, 111545. https://doi.org/10.1016/j.indcrop.2019.111545"
+  ],
+  "orange": [
+    "Alquezar, B., et al. (2008). Citrus fruit quality: Genomic and molecular aspects. Plant Science, 175(1–2), 38–50. https://doi.org/10.1016/j.plantsci.2008.03.014",
+    "Liu, Y., et al. (2012). Flavonoids in citrus and their health benefits. Journal of Food Science, 77(1), R9–R18. https://doi.org/10.1111/j.1750-3841.2011.02499.x"
+  ],
+  "grape": [
+    "This, P., et al. (2006). Historical origins and genetic diversity of wine grapes. Trends in Genetics, 22(9), 511–519. https://doi.org/10.1016/j.tig.2006.07.008",
+    "Jaillon, O., et al. (2007). The grapevine genome sequence. Nature, 449, 463–467. https://doi.org/10.1038/nature06148"
+  ],
+  "strawberry": [
+    "Hancock, J. F., et al. (2008). Strawberries. CABI Publishing.",
+    "Edger, P. P., et al. (2019). Origin and evolution of the octoploid strawberry genome. Nature Genetics, 51, 541–547. https://doi.org/10.1038/s41588-019-0356-4"
+  ],
+  "blueberry": [
+    "Retamales, J. B., et al. (2014). Blueberries. CABI Publishing.",
+    "Gupta, V., et al. (2015). Antioxidant and phytochemical evaluation of blueberries. Journal of Food Science and Nutrition, 3(5), 1–8."
+  ],
+  "raspberry": [
+    "Graham, J., et al. (2004). Breeding and genetics of Rubus. Plant Breeding Reviews, 24, 1–50.",
+    "Bobinaite, R., et al. (2012). Chemical composition of raspberry fruits. Food Chemistry, 132(3), 1495–1501. https://doi.org/10.1016/j.foodchem.2011.11.137"
+  ],
+  "pineapple": [
+    "Ming, R., et al. (2015). The pineapple genome and evolution of CAM photosynthesis. Nature Genetics, 47(12), 1435–1442. https://doi.org/10.1038/ng.3435",
+    "Bartholomew, D. P., et al. (2003). The pineapple: Botany, production and uses. CABI Publishing."
+  ],
+  "papaya": [
+    "Ming, R., et al. (2008). The draft genome of papaya (Carica papaya). Nature, 452, 991–996. https://doi.org/10.1038/nature06856",
+    "Nakasone, H. Y., et al. (1998). Tropical fruits. CABI Publishing."
+  ],
+"coconut": [
+    "Foale, M., et al. (2004). Coconut: Botany, production and uses. CABI Publishing.",
+    "Batugal, P., et al. (2009). Coconut genetic resources. International Plant Genetic Resources Institute."
+  ],
+  "cotton": [
+    "Wendel, J. F., et al. (2009). The origin and evolution of cotton. Advances in Agronomy, 103, 139–186. https://doi.org/10.1016/S0065-2113(09)03004-9",
+    "Paterson, A. H., et al. (2012). Repeated polyploidization of Gossypium genomes. Nature, 492, 423–427. https://doi.org/10.1038/nature11798"
+  ],
+  "sunflower": [
+    "Seiler, G. J., et al. (2017). Sunflower: Botany, production and uses. CABI Publishing.",
+    "Blackman, B. K., et al. (2011). The genomics of sunflower domestication. Current Biology, 21(19), 1–7. https://doi.org/10.1016/j.cub.2011.08.017"
+  ],
+  "soybean": [
+    "Hartman, G. L., et al. (2011). Crops that feed the world 2: Soybean. Food Security, 3, 5–17. https://doi.org/10.1007/s12571-010-0108-x",
+    "Schmutz, J., et al. (2010). Genome sequence of the palaeopolyploid soybean. Nature, 463, 178–183. https://doi.org/10.1038/nature08670"
+  ],
+  "cabbage": [
+    "Dixon, G. R. (2007). Vegetable brassicas and related crucifers. CABI Publishing.",
+    "Cheng, F., et al. (2016). Genome evolution of Brassica vegetables. Nature Genetics, 48, 151–159. https://doi.org/10.1038/ng.3474"
+  ],
+  "cauliflower": [
+    "Singh, B. K., et al. (2018). Cauliflower improvement and breeding. Scientia Horticulturae, 235, 18–27. https://doi.org/10.1016/j.scienta.2018.02.045",
+    "Parkin, I. A. P., et al. (2005). Segmental structure of the Brassica genome. The Plant Cell, 17(12), 3091–3103. https://doi.org/10.1105/tpc.105.035584"
+  ],
+  "broccoli": [
+    "Farnham, M. W., et al. (2012). Breeding and genetics of broccoli. Plant Breeding Reviews, 35, 1–40.",
+    "Li, Z., et al. (2019). Genomic insights into broccoli domestication. Horticulture Research, 6, 19. https://doi.org/10.1038/s41438-018-0091-4"
+  ],
+  "spinach": [
+    "Xu, C., et al. (2017). Genome sequence of spinach. Nature Communications, 8, 15275. https://doi.org/10.1038/ncomms15275",
+    "Morelock, T. E., et al. (2002). Spinach breeding. Plant Breeding Reviews, 22, 189–217."
+  ],
+  "lettuce": [
+    "Ryder, E. J. (1999). Lettuce, endive and chicory. CABI Publishing.",
+    "Reyes-Chin-Wo, S., et al. (2017). Genome assembly with in vitro proximity ligation. Nature Communications, 8, 14953. https://doi.org/10.1038/ncomms14953"
+  ],
+  "chili": [
+    "Bosland, P. W., et al. (2012). Chile pepper breeding and genetics. Plant Breeding Reviews, 36, 1–33.",
+    "Kim, S., et al. (2014). Genome sequence of hot pepper. Proceedings of the National Academy of Sciences, 111(14), 4968–4973. https://doi.org/10.1073/pnas.1308933111"
+  ],
+  "capsicum": [
+    "Bosland, P. W., et al. (2012). Capsicum pepper breeding and genetics. Plant Breeding Reviews, 36, 1–33.",
+    "Kim, S., et al. (2014). Genome sequence of hot pepper provides insights into evolution of pungency. Proceedings of the National Academy of Sciences, 111(14), 4968–4973. https://doi.org/10.1073/pnas.1308933111"
+  ],
+  "eggplant": [
+    "Daunay, M. C., et al. (2001). Eggplant. CABI Publishing.",
+    "Hirakawa, H., et al. (2014). Genome sequence of eggplant reveals genetic basis of fruit shape. DNA Research, 21(6), 649–656. https://doi.org/10.1093/dnares/dsu027"
+  ],
+  "zucchini": [
+    "Paris, H. S., et al. (2012). Origin and diversification of Cucurbita pepo. Economic Botany, 66(4), 343–355. https://doi.org/10.1007/s12231-012-9204-9",
+    "Montero-Pau, J., et al. (2018). De novo assembly of the zucchini genome. Plant Biotechnology Journal, 16(6), 1161–1171. https://doi.org/10.1111/pbi.12839"
+  ],
+  "pumpkin": [
+    "Ferriol, M., et al. (2005). Genetic diversity of Cucurbita species. Genetic Resources and Crop Evolution, 52, 673–683. https://doi.org/10.1007/s10722-003-6015-5",
+    "Sun, H., et al. (2017). Karyotype stability and genome evolution in Cucurbita. Molecular Plant, 10(10), 1292–1306. https://doi.org/10.1016/j.molp.2017.08.012"
+  ],
+  "carrot": [
+    "Iorizzo, M., et al. (2016). A high-quality carrot genome assembly provides insights into carotenoid accumulation. Nature Genetics, 48, 657–666. https://doi.org/10.1038/ng.3565",
+    "Simon, P. W., et al. (2008). Carrot breeding and genetics. Plant Breeding Reviews, 30, 157–190."
+  ],
+  "beetroot": [
+    "Biancardi, E., et al. (2012). Beta maritima: The origin of beets. Springer.",
+    "Kujala, T. S., et al. (2002). Betalain and phenolic compositions of beetroot. Journal of Agricultural and Food Chemistry, 50(10), 2839–2844. https://doi.org/10.1021/jf0118140"
+  ],
+  "onion": [
+    "Havey, M. J., et al. (2004). Onion breeding. Plant Breeding Reviews, 25, 1–54.",
+    "Sun, J., et al. (2020). Genome sequences of onion reveal domestication history. Nature Genetics, 52, 169–176. https://doi.org/10.1038/s41588-019-0554-2"
+  ],
+  "garlic": [
+    "Kamenetsky, R., et al. (2007). Garlic: Botany and horticulture. Horticultural Reviews, 33, 123–172.",
+    "Sun, X., et al. (2020). Genome of garlic reveals evolutionary adaptation. Nature Communications, 11, 2051. https://doi.org/10.1038/s41467-020-15786-6"
+  ],
+  "pea": [
+    "Smýkal, P., et al. (2012). Pea (Pisum sativum) in genetic and genomic era. Agronomy, 2(2), 74–115. https://doi.org/10.3390/agronomy2020074",
+    "Kreplak, J., et al. (2019). A reference genome for pea provides insight into legume genome evolution. Nature Genetics, 51, 1411–1422. https://doi.org/10.1038/s41588-019-0480-3"
+  ],
+  "bean": [
+    "Gepts, P., et al. (2008). Phaseolus beans: Domestication and breeding. Plant Breeding Reviews, 30, 235–278.",
+    "Schmutz, J., et al. (2014). A reference genome for common bean. Nature Genetics, 46, 707–713. https://doi.org/10.1038/ng.3008"
+  ],
+   "tea": [
+    "Mondal, T. K., et al. (2004). Tea biotechnology. Plant Cell, Tissue and Organ Culture, 76(3), 195–254. https://doi.org/10.1023/B:TICU.0000009259.08095.6c",
+    "Xia, E. H., et al. (2017). The tea tree genome provides insights into tea flavor and independent evolution of caffeine biosynthesis. Molecular Plant, 10(6), 866–877. https://doi.org/10.1016/j.molp.2017.04.002"
+  ],
+  "coffee": [
+    "Davis, A. P., et al. (2012). The impact of climate change on indigenous Arabica coffee. PLOS ONE, 7(11), e47981. https://doi.org/10.1371/journal.pone.0047981",
+    "Denoeud, F., et al. (2014). The coffee genome provides insight into the convergent evolution of caffeine biosynthesis. Science, 345(6201), 1181–1184. https://doi.org/10.1126/science.1255274"
+  ],
+  "pepper_black": [
+    "Parthasarathy, V. A., et al. (2008). Black pepper: Botany, production and uses. CABI Publishing.",
+    "Ravindran, P. N., et al. (2000). Black pepper (Piper nigrum L.). Harwood Academic Publishers."
+  ],
+  "cardamom": [
+    "Ravindran, P. N., et al. (2002). Cardamom: The genus Elettaria. Taylor & Francis.",
+    "Thomas, J., et al. (2009). Genetic diversity analysis in cardamom. Scientia Horticulturae, 121(2), 208–213. https://doi.org/10.1016/j.scienta.2009.02.003"
+  ],
+  "clove": [
+    "Nurdjannah, N., et al. (2004). Diversification of clove products. FAO Regional Office for Asia and the Pacific.",
+    "Chaieb, K., et al. (2007). Antioxidant and antimicrobial properties of clove oil. Phytotherapy Research, 21(6), 501–506. https://doi.org/10.1002/ptr.2124"
+  ],
+  "cinnamon": [
+    "Rao, P. V., et al. (2007). Cinnamon: A multifunctional medicinal plant. Evidence-Based Complementary and Alternative Medicine, 4(1), 45–53. https://doi.org/10.1093/ecam/nem044",
+    "Jayaprakasha, G. K., et al. (2003). Volatile constituents of cinnamon. Journal of Agricultural and Food Chemistry, 51(8), 2136–2140. https://doi.org/10.1021/jf026093q"
+  ],
+  "vanilla": [
+    "Havkin-Frenkel, D., et al. (2011). Vanilla biotechnology. Plant Biotechnology Reviews, 5, 53–71. https://doi.org/10.1007/s11816-010-0157-3",
+    "Odoux, E., et al. (2018). Vanilla flavor production and biosynthesis. Food Chemistry, 253, 198–207. https://doi.org/10.1016/j.foodchem.2018.01.124"
+  ],
+  "lavender": [
+    "Upson, T., et al. (2004). The genus Lavandula. Royal Botanic Gardens, Kew.",
+    "Lis-Balchin, M., et al. (2002). Lavender essential oils: Chemistry and biological activity. Phytochemistry, 60(4), 331–340. https://doi.org/10.1016/S0031-9422(02)00123-4"
+  ],
+  "eucalyptus": [
+    "Grattapaglia, D., et al. (2012). Genomics of Eucalyptus. Tree Genetics & Genomes, 8, 463–479. https://doi.org/10.1007/s11295-012-0498-x",
+    "Myburg, A. A., et al. (2014). The genome of Eucalyptus grandis. Nature, 510, 356–362. https://doi.org/10.1038/nature13308"
+  ],
+  "rubber": [
+    "Priyadarshan, P. M., et al. (2003). Biology of rubber tree (Hevea brasiliensis). Elsevier.",
+    "Tang, C., et al. (2016). The rubber tree genome reveals new insights into rubber production. Nature Plants, 2, 16073. https://doi.org/10.1038/nplants.2016.73"
+  ],
+  "teak": [
+    "White, K. J., et al. (2011). Teak: Botany, silviculture and uses. CABI Publishing.",
+    "Goh, D. K. S., et al. (2013). Genetic diversity and conservation of teak. Tree Genetics & Genomes, 9, 1423–1436. https://doi.org/10.1007/s11295-013-0645-2"
+  ],
+  "pine": [
+    "Neale, D. B., et al. (2014). The Douglas-fir genome sequence reveals specialization of the photosynthetic apparatus. Nature Genetics, 46, 131–136. https://doi.org/10.1038/ng.2852",
+    "Richardson, D. M., et al. (2007). Ecology and biogeography of Pinus. Cambridge University Press."
+  ],
+  "cedar": [
+    "Qiao, C. Y., et al. (2007). Phylogeny and biogeography of Cedrus. Tree Genetics & Genomes, 3, 59–71. https://doi.org/10.1007/s11295-006-0058-0",
+    "Farjon, A. (2005). A monograph of Cupressaceae and Sciadopitys. Royal Botanic Gardens, Kew."
+  ],
+  "fir": [
+    "Xiang, Q. Y., et al. (2015). Phylogeny of Abies inferred from nuclear and chloroplast DNA. Molecular Phylogenetics and Evolution, 85, 1–10. https://doi.org/10.1016/j.ympev.2014.12.017",
+    "Liu, Y., et al. (2018). Population genetics of fir species. Tree Genetics & Genomes, 14, 72. https://doi.org/10.1007/s11295-018-1283-4"
+  ],
+  "birch": [
+    "Salojärvi, J., et al. (2017). Genome sequencing and population genomic analyses provide insights into birch evolution. Nature Genetics, 49, 904–912. https://doi.org/10.1038/ng.3862",
+    "Atkinson, M. D. (1992). Betula pendula and Betula pubescens. Journal of Ecology, 80(4), 837–870."
+  ],
+  "oak": [
+    "Kremer, A., et al. (2012). Genomics of oaks: Insights into evolution and adaptation. New Phytologist, 194(4), 889–902. https://doi.org/10.1111/j.1469-8137.2012.04102.x",
+    "Plomion, C., et al. (2018). Oak genome reveals facets of long lifespan. Nature Plants, 4, 440–452. https://doi.org/10.1038/s41477-018-0172-3"
+  ],
+  "ash_tree": [
+    "Sollars, E. S. A., et al. (2017). Genome sequence and genetic diversity of European ash. Nature Ecology & Evolution, 1, 162. https://doi.org/10.1038/s41559-017-0162",
+    "Pautasso, M., et al. (2013). Ash dieback impacts and management. Biological Conservation, 158, 37–49. https://doi.org/10.1016/j.biocon.2012.08.026"
+  ],
+  "maple": [
+    "Renner, S. S., et al. (2008). Phylogeny and historical biogeography of Acer. Molecular Phylogenetics and Evolution, 48(2), 704–719. https://doi.org/10.1016/j.ympev.2008.05.001",
+    "Hasegawa, M., et al. (2015). Genetic diversity and evolution of maple species. Tree Genetics & Genomes, 11, 82. https://doi.org/10.1007/s11295-015-0906-4"
+  ],
+  "lotus": [
+    "Ming, R., et al. (2013). Genome of the sacred lotus provides insights into evolutionary resilience. Genome Biology, 14, R41. https://doi.org/10.1186/gb-2013-14-5-r41",
+    "Shen-Miller, J., et al. (2002). Longevity of lotus seeds. American Journal of Botany, 89(2), 236–247. https://doi.org/10.3732/ajb.89.2.236"
+  ],
+  "water_lily": [
+    "Les, D. H., et al. (1999). Phylogeny, classification and floral evolution of water lilies. Systematic Botany, 24(1), 28–46.",
+    "Zhang, L., et al. (2020). Genomic insights into the origin of water lilies. Nature Communications, 11, 4248. https://doi.org/10.1038/s41467-020-18098-1"
+  ],
+  "fern": [
+    "Pryer, K. M., et al. (2004). Phylogeny and evolution of ferns. American Journal of Botany, 91(10), 1582–1598. https://doi.org/10.3732/ajb.91.10.1582",
+    "Testo, W., et al. (2016). Fern diversification linked to angiosperm radiation. Proceedings of the National Academy of Sciences, 113(33), 9001–9006. https://doi.org/10.1073/pnas.1604066113"
+  ],
+  "bryophyllum": [
+    "Zeevaart, J. A. D., et al. (1978). Crassulacean acid metabolism in Bryophyllum. Plant Physiology, 61(3), 445–450. https://doi.org/10.1104/pp.61.3.445",
+    "Kluge, M., et al. (1991). CAM photosynthesis in Bryophyllum species. Botanica Acta, 104(4), 302–310."
+  ],
+  "coleus": [
+    "Khare, R. S., et al. (2012). Pharmacological and medicinal properties of Coleus forskohlii. Pharmacognosy Reviews, 6(11), 12–18. https://doi.org/10.4103/0973-7847.95885",
+    "Paul, M., et al. (2010). In vitro propagation of Coleus forskohlii. Biotechnology Advances, 28(1), 1–9. https://doi.org/10.1016/j.biotechadv.2009.09.004"
+  ],
+  "geranium": [
+    "Bakker, F. T., et al. (2004). Phylogeny of Pelargonium. Molecular Phylogenetics and Evolution, 30(1), 222–239. https://doi.org/10.1016/S1055-7903(03)00203-8",
+    "Lis-Balchin, M., et al. (2003). Geranium and Pelargonium essential oils. Journal of Essential Oil Research, 15(4), 243–248. https://doi.org/10.1080/10412905.2003.9698572"
+  ],
+  "begonia": [
+    "Plana, V., et al. (2004). Phylogeny and biogeography of Begonia. Systematic Botany, 29(3), 671–682.",
+    "Moonlight, P. W., et al. (2018). Genome size diversity in Begonia. Botanical Journal of the Linnean Society, 188(2), 148–165. https://doi.org/10.1093/botlinnean/boy055"
+  ],
+  "hibiscus": [
+    "Wilson, F. D., et al. (1999). Biology and taxonomy of Hibiscus. Journal of the Torrey Botanical Society, 126(1), 1–12.",
+    "Da-Costa-Rocha, I., et al. (2014). Hibiscus sabdariffa: Phytochemistry and pharmacology. Food Chemistry, 165, 424–443. https://doi.org/10.1016/j.foodchem.2014.05.002"
+  ],
+  "bougainvillea": [
+    "Kobayashi, K. D., et al. (2007). Bougainvillea cultivation and physiology. Acta Horticulturae, 743, 259–264.",
+    "Ammar, I., et al. (2015). Antioxidant activity of Bougainvillea glabra extracts. Industrial Crops and Products, 65, 316–322. https://doi.org/10.1016/j.indcrop.2014.12.020"
+  ],
+  "money_plant": [
+    "Boyce, P. C., et al. (2012). The Araceae of tropical Asia. Gardens’ Bulletin Singapore, 64(1), 1–40.",
+    "Zhang, L., et al. (2019). Physiological and air-purifying properties of Epipremnum aureum. Environmental Science and Pollution Research, 26, 35225–35233. https://doi.org/10.1007/s11356-019-06504-6"
+  ],
+  "snake_plant": [
+    "Mabberley, D. J. (2008). Mabberley’s plant-book: Sansevieria taxonomy. Cambridge University Press.",
+    "Dede, O., et al. (2019). CAM metabolism and drought tolerance in Sansevieria. Plant Biology, 21(2), 312–320. https://doi.org/10.1111/plb.12915"
+  ],
+  "areca_palm": [
+    "Dransfield, J., et al. (2008). Genera Palmarum: The evolution and classification of palms. Royal Botanic Gardens, Kew.",
+    "Nath, S., et al. (2019). Genetic diversity and conservation of areca palm. Industrial Crops and Products, 130, 152–160. https://doi.org/10.1016/j.indcrop.2018.12.068"
+  ],
+   "date_palm": [
+    "Al-Mssallem, I. S., et al. (2013). Genome sequence of the date palm reveals adaptation to desert environments. Nature Communications, 4, 2274. https://doi.org/10.1038/ncomms3274",
+    "Chao, C. T., et al. (2007). Date palm (Phoenix dactylifera L.): Overview of biology and production. HortScience, 42(5), 1077–1082."
+  ],
+  "fig": [
+    "Badgujar, S. B., et al. (2014). Ficus carica: Phytochemistry, pharmacology and traditional uses. Pharmacognosy Reviews, 8(16), 128–134. https://doi.org/10.4103/0973-7847.134247",
+    "Mori, K., et al. (2017). Genomic insights into fig domestication. Scientific Reports, 7, 7319. https://doi.org/10.1038/s41598-017-07773-7"
+  ],
+  "pomegranate": [
+    "Qin, G., et al. (2017). The pomegranate genome provides insights into fruit quality and ovule development. Nature Plants, 3, 17059. https://doi.org/10.1038/nplants.2017.59",
+    "Holland, D., et al. (2009). Pomegranate: Botany, horticulture and breeding. Horticultural Reviews, 35, 127–191."
+  ],
+  "dragon_fruit": [
+    "Zheng, J., et al. (2021). Genome sequence of dragon fruit reveals betalain biosynthesis. Horticulture Research, 8, 164. https://doi.org/10.1038/s41438-021-00593-8",
+    "Le Bellec, F., et al. (2006). Pitahaya (Hylocereus spp.): A new fruit crop. Fruits, 61(4), 237–250."
+  ],
+  "kiwi": [
+    "Huang, S., et al. (2013). The genome of kiwifruit provides insights into evolution of vitamin C biosynthesis. Nature Communications, 4, 2640. https://doi.org/10.1038/ncomms3640",
+    "Ferguson, A. R., et al. (2004). Kiwifruit. CABI Publishing."
+  ],
+  "lettuce_iceberg": [
+    "Ryder, E. J. (2002). Breeding iceberg lettuce. Plant Breeding Reviews, 20, 161–192.",
+    "Reyes-Chin-Wo, S., et al. (2017). Genome assembly of lettuce. Nature Communications, 8, 14953. https://doi.org/10.1038/ncomms14953"
+  ],
+  "parsley": [
+    "Tunbridge, A., et al. (1998). Parsley: Botany and cultivation. Journal of Herbs, Spices & Medicinal Plants, 6(2), 1–18.",
+    "Zhang, L., et al. (2015). Phytochemical composition and antioxidant activity of parsley. Journal of Food Science, 80(12), C2676–C2683. https://doi.org/10.1111/1750-3841.13128"
+  ],
+  "coriander": [
+    "Mandal, S., et al. (2015). Coriandrum sativum: A review of ethnobotany and phytochemistry. Asian Pacific Journal of Tropical Biomedicine, 5(6), 421–428. https://doi.org/10.1016/j.apjtb.2015.04.001",
+    "Msaada, K., et al. (2009). Chemical composition of coriander essential oil. Food Chemistry, 113(2), 526–531. https://doi.org/10.1016/j.foodchem.2008.07.072"
+  ],
+  "curry_leaf": [
+    "Ganesan, P., et al. (2013). Curry leaf plant: Nutritional and medicinal properties. Journal of Food Science and Nutrition, 1(1), 1–8.",
+    "Handral, H. K., et al. (2012). Phytochemical and pharmacological properties of Murraya koenigii. Journal of Pharmacognosy, 3(2), 1–9."
+  ],
+  "amla": [
+    "Baliga, M. S., et al. (2011). Phytochemistry, traditional uses and pharmacology of Emblica officinalis. Food & Function, 2(6), 337–352. https://doi.org/10.1039/C1FO00032E",
+    "Variya, B. C., et al. (2016). Antioxidant potential of amla. Journal of Food Science and Nutrition, 4(1), 1–9."
+  ],
+  "jamun": [
+    "Baliga, M. S., et al. (2011). Jamun (Syzygium cumini): A review of its phytochemistry and pharmacology. Food Research International, 44(7), 1776–1789. https://doi.org/10.1016/j.foodres.2011.02.002",
+    "Ayyanar, M., et al. (2013). Ethnobotanical and pharmacological properties of Syzygium cumini. Journal of Ethnopharmacology, 145(1), 1–13. https://doi.org/10.1016/j.jep.2012.11.046"
+  ],
+  "sweet_potato": [
+    "Loebenstein, G., et al. (2009). Sweet potato. Springer Science & Business Media.",
+    "Yang, J., et al. (2017). Sweet potato genome provides insights into storage root formation. Nature Plants, 3, 17133. https://doi.org/10.1038/nplants.2017.133"
+  ],
+  "yam": [
+    "Coursey, D. G. (1967). Yams: An account of the nature, origins, cultivation and utilisation of the useful members of the Dioscoreaceae. Longmans.",
+    "Tamiru, M., et al. (2017). Genome sequencing of yam reveals domestication history. Nature Communications, 8, 1–10. https://doi.org/10.1038/ncomms15014"
+  ],
+  "taro": [
+    "Lebot, V., et al. (2004). Tropical root and tuber crops: Cassava, sweet potato, yams and aroids. CABI Publishing.",
+    "Yin, J., et al. (2021). Genome assembly of taro reveals adaptive evolution. Molecular Ecology Resources, 21(3), 800–815. https://doi.org/10.1111/1755-0998.13284"
+  ],
+  "mustard": [
+    "Rakow, G. (2004). Species origin and economic importance of Brassica. Plant Breeding Reviews, 25, 1–32.",
+    "Cheng, F., et al. (2014). Genome sequencing supports Brassica evolution. Nature Genetics, 46, 882–888. https://doi.org/10.1038/ng.3028"
+  ]
+}
+

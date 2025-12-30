@@ -1,0 +1,1142 @@
+{
+    "tomato": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "potato": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "banana": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "aloe_vera": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "rose": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "orchid": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "jasmine": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "neem": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "tulsi": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "sugarcane": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "wheat": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "rice": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "maize": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "barley": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "mint": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "ginger": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "turmeric": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "bamboo": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "apple": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "mango": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "guava": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lemon": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lime": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "orange": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "grape": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "strawberry": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "blueberry": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "raspberry": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pineapple": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "papaya": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "coconut": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cotton": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "sunflower": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "soybean": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cabbage": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cauliflower": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "broccoli": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "spinach": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lettuce": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "chili": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "capsicum": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "eggplant": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "zucchini": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pumpkin": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "carrot": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "beetroot": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "onion": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "garlic": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pea": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "bean": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "tea": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "coffee": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pepper_black": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cardamom": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "clove": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cinnamon": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "vanilla": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lavender": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "eucalyptus": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "rubber": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "teak": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pine": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "cedar": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "fir": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "birch": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "oak": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "ash_tree": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "maple": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lotus": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "water_lily": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "fern": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "bryophyllum": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "coleus": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "geranium": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "begonia": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "hibiscus": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "bougainvillea": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "money_plant": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "snake_plant": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "areca_palm": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "date_palm": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "fig": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "pomegranate": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "dragon_fruit": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "kiwi": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "lettuce_iceberg": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "parsley": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "coriander": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "curry_leaf": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "amla": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "jamun": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "sweet_potato": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "yam": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "taro": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    },
+    "mustard": {
+        "sterilization": "Wash explants under running tap water for 10\u201315 minutes with mild detergent; treat with 2\u20133 drops of Tween-20 for 5 minutes; rinse thoroughly. Transfer to laminar airflow hood. Dip in 70% ethanol for 30\u201345 seconds. Sterilize using 0.1% HgCl2 or 2% NaOCl for 6\u201312 minutes depending on tissue hardness. Rinse 4\u20135 times with sterile distilled water to remove all traces of sterilant.",
+        "shoot_induction": {
+            "medium": "Murashige and Skoog (MS) basal medium supplemented with: 1\u20133 mg/L BAP, 0.1\u20130.5 mg/L NAA, 30 g/L sucrose, 8 g/L agar; pH adjusted to 5.8.",
+            "conditions": "Incubate at 25 \u00b1 2\u00b0C under a 16/8 h photoperiod with 40\u201360 \u00b5mol/m\u00b2/s light intensity. Monitor for shoot initiation after 7\u201314 days."
+        },
+        "rooting": {
+            "medium": "Half-strength MS medium supplemented with 0.5\u20131.5 mg/L IBA or 1 mg/L NAA; 25 g/L sucrose; 6\u20138 g/L agar.",
+            "duration": "Roots typically emerge within 10\u201320 days depending on species."
+        },
+        "hardening": "Gently remove rooted plantlets and wash agar from roots. Transfer to trays containing cocopeat:perlite:vermiculite (1:1:1). Maintain high humidity in a mist chamber for 7 days. Gradually reduce humidity and expose to indirect sunlight. After 10\u201314 days, transfer to polybags containing soil:sand:compost (1:1:1). Harden for 2\u20133 weeks before field planting."
+    }
+}
